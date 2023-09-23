@@ -1,4 +1,59 @@
 {
-  "products":[],
-  "users":[]
+  "products": [
+    {
+      "image": "https://i.pinimg.com/564x/f0/49/ac/f049acaeea01538545bdb1a7a0c29229.jpg",
+      "name": "Mens Checked Shirt",
+      "description": "Mens Blue Shirt with box type check",
+      "gender": "Male",
+      "category": "Shirt",
+      "price": 499,
+      "id": 1
+    },
+    {
+      "image": "https://i.pinimg.com/564x/38/3c/bf/383cbf337b0ba87b12f8d45f32da9f9f.jpg",
+      "name": "Women Pink Kurti ",
+      "description": "Short Pink Kurti with white dots",
+      "gender": "Female",
+      "category": "Kurti",
+      "price": 699,
+      "id": 2
+    },
+    {
+      "image": "https://i.pinimg.com/564x/ac/af/65/acaf658078ee3753ffa9bc2085601406.jpg",
+      "name": "Olive Green Lehenga",
+      "description": "Olive Green lehenga set for women ",
+      "gender": "Female",
+      "category": "Lehenga",
+      "price": 2999,
+      "id": 3
+    },
+    {
+      "image": "https://i.pinimg.com/736x/8a/3c/e8/8a3ce8d9e47624fea5a3ff5ed1d54ec1.jpg",
+      "name": "Western Suit for men",
+      "description": "Olive Green Western Suit for men",
+      "gender": "Male",
+      "category": "Suits",
+      "price": 5000,
+      "id": 4
+    },
+    {
+      "image": "https://i.pinimg.com/564x/ab/5e/08/ab5e08a2107ac6c723a0e62b35f28457.jpg",
+      "name": "Blue Baggy Jean",
+      "description": "Blue Baggy Jean for men",
+      "gender": "Male",
+      "category": "Jeans",
+      "price": 999,
+      "id": 5
+    },
+    {
+      "image": "https://i.pinimg.com/564x/aa/2a/78/aa2a783a893c4d16f5b22953cfbb2a4c.jpg",
+      "name": "Denim Jacket ",
+      "description": "Blue Denim Jacket for women",
+      "gender": "Female",
+      "category": "Jackets",
+      "price": 1499,
+      "id": 6
+    }
+  ],
+  "users": []
 }
